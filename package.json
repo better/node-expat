@@ -1,8 +1,12 @@
 {
-  "name": "node-expat",
-  "version": "2.3.17",
+  "name": "@better/node-expat",
+  "version": "2.3.18",
   "main": "./lib/node-expat",
   "description": "NodeJS binding for fast XML parsing.",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://artifactory.bettermg.com/artifactory/api/npm/npm/"
+  },
   "keywords": [
     "xml",
     "sax",
