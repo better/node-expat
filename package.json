@@ -1,6 +1,6 @@
 {
   "name": "@better/node-expat",
-  "version": "2.3.18",
+  "version": "2.3.19",
   "main": "./lib/node-expat",
   "description": "NodeJS binding for fast XML parsing.",
   "publishConfig": {
